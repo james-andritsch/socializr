@@ -22,4 +22,4 @@ ___
 
 ## Screenshot
 ___
-![Dayplanner](assets/images/socializr_screenshot.png)
+![Socializr](assets/images/socializr_screenshot.png)
